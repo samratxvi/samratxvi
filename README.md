@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="C:\Users\samra\Downloads\samratxvi-gitfut.png" width="50%">
+  <img src="C:\Users\samra\Downloads\samratxvi-gitfut.png" width="300">
 </p>
