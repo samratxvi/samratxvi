@@ -4,11 +4,11 @@
 <table width="100%">
 <tr>
 
-<td width="40%" align="center">
+<td width="30%" align="center">
 <img src="https://github.com/user-attachments/assets/07b93751-53ad-4834-b821-3f16c7c4985e" width="400" height="450">
 </td>
 
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 
 ###  WHO AM I ?
 
