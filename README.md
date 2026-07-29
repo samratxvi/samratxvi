@@ -10,14 +10,14 @@
 
 <td width="60%" valign="top">
 
-#  Who Am I ?
-
-Hey im Samrat Roy &
-im pursuing BTECH AI & ML.
+###  WHO AM I ?
+```
+Hey im Samrat Roy & im pursuing BTECH AI & ML.
 
 Game development , Web development & Training ML models are my fortes.
 
 📍Based in INDIA
+```
 
 ### TECH STACK
 
@@ -26,15 +26,15 @@ Game development , Web development & Training ML models are my fortes.
 ### CONTACTS
 
 <a href="https://github.com/samratxvi">
-  <img src="https://skillicons.dev/icons?i=github" height="48">
+  <img src="https://skillicons.dev/icons?i=github" height="38">
 </a>
 
 <a href="https://linkedin.com/in/samratxvi">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="38">
 </a>
 
 <a href="mailto:samratxvi@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48">
+  <img src="https://skillicons.dev/icons?i=gmail" height="38">
 </a>
 
 </td>
