@@ -11,13 +11,13 @@
 <td width="60%" valign="top">
 
 ###  WHO AM I ?
-```
+
 Hey im Samrat Roy & im pursuing BTECH AI & ML.
 
 Game development , Web development & Training ML models are my fortes.
 
 📍Based in INDIA
-```
+
 
 ### TECH STACK
 
