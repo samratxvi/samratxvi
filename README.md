@@ -21,7 +21,7 @@ Game development , Web development & Training ML models are my fortes.
 
 ### TECH STACK
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,rust,git,vscode,figma,unrealengine,unity,vercel,nodejs,cursor" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,zig,git,vscode,figma,unrealengine,unity,vercel,nodejs,cursor" />
 
 ### CONTACTS
 
