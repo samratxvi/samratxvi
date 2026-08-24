@@ -4,7 +4,7 @@
 <table width="100%">
 <tr>
 
-<img width="1965" height="144" alt="Picsart_26-08-24_10-34-16-710" src="https://github.com/user-attachments/assets/0c866b83-278c-49fc-bc18-944ec8001361" />
+<img width="100%" height="144" alt="Picsart_26-08-24_10-34-16-710" src="https://github.com/user-attachments/assets/0c866b83-278c-49fc-bc18-944ec8001361" />
 <p align="centre">
 </p>
 
