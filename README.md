@@ -9,7 +9,7 @@
 </p>
 
 <td width="30%" align="center">
-<img width="400" height="400" alt="download (2)" src="https://github.com/user-attachments/assets/4ce8174a-b041-42b9-a0ee-85cc716488b4" />
+<img width="400" height="360" alt="e s d e l i n e" src="https://github.com/user-attachments/assets/ce63bb48-043c-47cd-bbbb-7d22ba05e583" />
 </td>
 <td width="100%" valign="top">
 
