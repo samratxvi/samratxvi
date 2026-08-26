@@ -9,20 +9,20 @@
 </td>
 <td width="100%" valign="top">
 
-###  WHO AM I >
+###  ABOUT ME
 
 Samrat Roy | BTECH AI & ML student from INDIA.   
 
-### WHAT I DO > 
+### WHAT I DO  
 
 Game development , Web development & Training ML models are my fortes.
 
 
-### TECH STACK >
+### TECH STACK 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,zig,git,vscode,figma,unrealengine,unity,vercel,nodejs,cursor" />
 
-### CONTACTS >
+### CONTACTS 
 
 <a href="https://github.com/samratxvi">
   <img src="https://skillicons.dev/icons?i=github" height="38">
