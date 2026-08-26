@@ -4,10 +4,6 @@
 <table width="100%">
 <tr>
 
-<img width="100%" height="144" alt="Picsart_26-08-24_10-34-16-710" src="https://github.com/user-attachments/assets/0c866b83-278c-49fc-bc18-944ec8001361" />
-<p align="centre">
-</p>
-
 <td width="30%" align="center">
 <img width="400" height="360" alt="e s d e l i n e" src="https://github.com/user-attachments/assets/ce63bb48-043c-47cd-bbbb-7d22ba05e583" />
 </td>
