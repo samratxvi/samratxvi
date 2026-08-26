@@ -13,13 +13,13 @@
 </td>
 <td width="100%" valign="top">
 
-###  WHO AM I ?
+###  WHO AM I ? ?
 
-Hey im Samrat Roy & im pursuing BTECH AI & ML.
+Samrat Roy | BTECH AI & ML student from INDIA.   
+
+### WHAT I DO ?
 
 Game development , Web development & Training ML models are my fortes.
-
-📍Based in INDIA
 
 
 ### TECH STACK
