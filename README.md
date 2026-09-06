@@ -11,7 +11,7 @@
 
 ###  ABOUT ME
 
-Samrat Roy | BTECH AI & ML student from INDIA.   
+SAMRAT ROY | based in India | Building OUTRANK | ML & AI Systems | Cloud & Dev Ops | Game mechanics & Full-Stack Dev | intern @SYNK   
 
 ### WHAT I DO  
 
