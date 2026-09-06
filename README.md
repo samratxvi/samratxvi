@@ -11,11 +11,11 @@
 
 ###  ABOUT ME
 
-SAMRAT ROY | based in India | Building OUTRANK | ML & AI Systems | Cloud & Dev Ops | Game mechanics & Full-Stack Dev | intern @SYNK   
+SAMRAT ROY | based in India | Building OUTRANK | intern @SYNK   
 
 ### WHAT I DO  
 
-Game development , Web development & Training ML models are my fortes.
+ ML & AI Systems | Cloud & Dev Ops | Game mechanics & Full-Stack Dev
 
 
 ### TECH STACK 
