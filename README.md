@@ -11,7 +11,7 @@
 
 ###  ABOUT ME
 
-SAMRAT ROY | based in India | Building OUTRANK | intern @SYNK   
+SAMRAT ROY | building OUTRANK | intern @SYNK
 
 ### WHAT I DO  
 
